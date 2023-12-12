@@ -1,0 +1,9 @@
+*.pdf
+*.txt
+*.pkl
+*.pickle
+*.zip
+.env
+*.bin
+*.sqlite3
+__pycache__
